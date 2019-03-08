@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="UTF-8">
+<title>My First Object</title>
+</head>
+
+<body>
+    <div id="question">The sky is blue?</div> 
+    <br>
+    <div id="answer">True or False?</div>
+    <br>
+    <button id ='ask' onclick="askQuestion()">Ask a New Question</button>
+    <button id="true" onclick="truee()">True</button>
+    <button onclick="falsee()">False</button>
+
+    <script>
+
+        var counter = 0;
+        var score=0;
+        var myQuestions = [
+        {q: "The capital of Libya is Benghazi", answers: {a: "True", b: "false"}, a:"false"},
+        {q: "Albert Einstein won the Nobel Prize in Physics", answers: {a: "True", b: "false"}, a:"true"},
+        {q:"Baby Koalas are called Joeys", nswers: {a: "True", b: "false"}, a:"false"},
+        ]
+        function truee(){
+            document.getElementById('answer').innerHTML="That is correct";
+            document.getElementById('answer').style.color="green";
+            document.getElementById('answer').style.textTransform="uppercase";}
+
+        function falsee(){
+            document.getElementById('answer').innerHTML="That is not correct";
+            document.getElementById('answer').style.color="red";
+            document.getElementById('answer').style.textTransform="uppercase";}
+
+        function askQuestion(){
+            document.getElementById('question').innerHTML= myQuestions[counter].q;
+
+        }
+
+        if (counter < myQuestions.length){
+            askQuestion();
+            counter++;
+        }
+        
+       
+    </script>
+
+</body>
+
+</html>

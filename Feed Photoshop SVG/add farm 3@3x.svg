@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>add farm 3@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="260" height="45" rx="7"></rect>
+        <filter x="-2.7%" y="-11.1%" width="105.4%" height="131.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.188066123 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="260" height="50" rx="7"></rect>
+        <filter x="-2.7%" y="-10.0%" width="105.4%" height="128.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.175724638 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="193" y="11" width="56.6428571" height="30" rx="7"></rect>
+        <filter x="-12.4%" y="-16.7%" width="124.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.126217165 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="260" height="50" rx="7"></rect>
+        <filter x="-2.7%" y="-10.0%" width="105.4%" height="128.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.175724638 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="260" height="50" rx="7"></rect>
+        <filter x="-2.7%" y="-10.0%" width="105.4%" height="128.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.183933424 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="125.357143" height="50" rx="7"></rect>
+        <filter x="-5.6%" y="-10.0%" width="111.2%" height="128.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.188377491 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="134.642857" y="0" width="125.357143" height="50" rx="7"></rect>
+        <filter x="-5.6%" y="-10.0%" width="111.2%" height="128.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.177281476 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="add-farm-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="360" height="640"></rect>
+        <rect id="Rectangle" fill="#F9FAFB" fill-rule="nonzero" x="0" y="0" width="360" height="640"></rect>
+        <g id="status_bar_my_farms">
+            <g id="Group-2">
+                <rect id="Rectangle" fill="#344455" x="0" y="0" width="360" height="80"></rect>
+                <g id="Group">
+                    <g id="Status-bar">
+                        <g id="Status-bar-/-Black" transform="translate(242.000000, 0.000000)">
+                            <g id="time" opacity="0.9" transform="translate(77.000000, 5.000000)" fill="#82939A" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400">
+                                <text id="12:30">
+                                    <tspan x="0.474" y="13">12:30</tspan>
+                                </text>
+                            </g>
+                            <g id="battery" transform="translate(55.000000, 4.000000)">
+                                <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                <polygon id="Shape" fill="#82939A" points="9 1.875 9 1 6 1 6 1.875 3 1.875 3 15 12 15 12 1.875"></polygon>
+                            </g>
+                            <g id="cellular" transform="translate(35.000000, 4.000000)">
+                                <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                <polygon id="Shape" fill="#82939A" points="0 15 14 15 14 1"></polygon>
+                            </g>
+                            <g id="wifi" transform="translate(14.000000, 4.000000)">
+                                <polygon id="bounds" points="2 0 18 0 18 16 2 16"></polygon>
+                                <path d="M0.977372085,4.01593123 C3.48821908,2.12256382 6.61301513,1 10,1 C13.3869849,1 16.5117809,2.12256382 19.0226279,4.01593123 L10,15 L0.977372085,4.01593123 Z" id="Shape" fill="#82939A"></path>
+                            </g>
+                        </g>
+                        <g id="Title" transform="translate(135.000000, 45.000000)" fill="#F9AA33" font-family="Avenir-Black, Avenir" font-size="12" font-weight="700">
+                            <text id="Name">
+                                <tspan x="13.002" y="12">MY FARMS</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <path d="M336,46 C336,44.8954305 336.88773,44 338,44 C339.104569,44 340,44.8877296 340,46 C340,47.1045695 339.11227,48 338,48 C336.895431,48 336,47.1122704 336,46 Z M336,52 C336,50.8954305 336.88773,50 338,50 C339.104569,50 340,50.8877296 340,52 C340,53.1045695 339.11227,54 338,54 C336.895431,54 336,53.1122704 336,52 Z M336,58 C336,56.8954305 336.88773,56 338,56 C339.104569,56 340,56.8877296 340,58 C340,59.1045695 339.11227,60 338,60 C336.895431,60 336,59.1122704 336,58 Z" id="Combined-Shape" fill="#F9AA33"></path>
+                </g>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#344455" fill-rule="nonzero" x="0" y="78" width="360" height="562"></rect>
+        <g id="Form" transform="translate(50.000000, 171.000000)">
+            <g id="Bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="259" height="44" rx="7"></rect>
+            </g>
+            <text id="Abuja-1" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                <tspan x="18" y="28">Abuja 1</tspan>
+            </text>
+            <g id="Group-2" transform="translate(0.000000, 61.000000)">
+                <g id="Group-3" transform="translate(0.000000, 127.000000)">
+                    <g id="Bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="259" height="49" rx="7"></rect>
+                    </g>
+                    <g id="Rectangle" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <rect stroke="#F9AA33" stroke-width="2" stroke-linejoin="square" x="194" y="12" width="54.6428571" height="28" rx="7"></rect>
+                    </g>
+                    <text id="GET" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#F9AA33">
+                        <tspan x="211" y="30">GET</tspan>
+                    </text>
+                    <text id="GPS-Coordinates" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                        <tspan x="19" y="30">GPS Coordinates</tspan>
+                    </text>
+                </g>
+                <g id="Bg-Copy-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="259" height="49" rx="7"></rect>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 259.000000)">
+                    <g id="Bg-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="259" height="49" rx="7"></rect>
+                    </g>
+                    <text id="Farm-Type" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                        <tspan x="19" y="29">Farm Type</tspan>
+                    </text>
+                    <polygon id="Shape-Copy" fill="#F9AA33" points="232.309286 23 236.571429 27.58 240.833571 23 242.142857 24.41 236.571429 30.41 231 24.41"></polygon>
+                </g>
+                <g id="Group" transform="translate(0.000000, 193.000000)">
+                    <g id="Bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="124.357143" height="49" rx="7"></rect>
+                    </g>
+                    <g id="Bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <rect stroke="#F9FAFB" stroke-width="1" stroke-linejoin="square" x="135.142857" y="0.5" width="124.357143" height="49" rx="7"></rect>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 17.000000)">
+                    <g id="Group-Copy" transform="translate(0.000000, 49.000000)" stroke="#F9FAFB">
+                        <rect id="Bg" x="0.5" y="0.5" width="124.357143" height="44" rx="7"></rect>
+                        <rect id="Bg" x="135.142857" y="0.5" width="124.357143" height="44" rx="7"></rect>
+                    </g>
+                    <text id="Abuja" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                        <tspan x="19" y="76">Abuja</tspan>
+                    </text>
+                    <text id="Nigeria" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                        <tspan x="19" y="12">Nigeria</tspan>
+                    </text>
+                    <text id="FCT" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                        <tspan x="153" y="76">FCT</tspan>
+                    </text>
+                </g>
+                <text id="Length-(m)" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                    <tspan x="19" y="222">Length (m)</tspan>
+                </text>
+                <text id="Width-(m)" font-family="Avenir-Light, Avenir" font-size="12" font-weight="300" fill="#F9FAFB">
+                    <tspan x="153" y="222">Width (m)</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Text" transform="translate(40.000000, 132.000000)" fill="#F9FAFB" font-family="Avenir-Light, Avenir" font-size="16" font-weight="300">
+            <text id="Register-new-farm-to">
+                <tspan x="8.824" y="16">Register new farm to Isabel database</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(129.000000, 573.000000)">
+            <g id="Group">
+                <rect id="Rectangle" stroke="#F9AA33" stroke-width="2" fill-rule="nonzero" x="1" y="1" width="100" height="31" rx="7"></rect>
+                <polygon id="Shape-Copy-2" fill="#F9AA33" transform="translate(83.205000, 17.071429) scale(-1, 1) rotate(90.000000) translate(-83.205000, -17.071429) " points="79.3253571 13.8664286 83.205 17.8283449 87.0846429 13.8664286 88.2764286 15.0861452 83.205 20.2764286 78.1335714 15.0861452"></polygon>
+                <text id="SUBMIT" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#F9AA33">
+                    <tspan x="23.375" y="21">SUBMIT</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="New-Farm" font-family="Avenir-Light, Avenir" font-size="30" font-weight="300" line-spacing="42" fill="#F9FAFB">
+            <tspan x="47" y="121.696167">New</tspan>
+            <tspan x="107.138" y="120" font-size="36"> </tspan>
+            <tspan x="117.5" y="121.696167">Farm</tspan>
+        </text>
+    </g>
+</svg>

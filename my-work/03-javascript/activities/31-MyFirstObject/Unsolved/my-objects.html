@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>My First Object</title>
+  </head>
+  <body>
+
+    <script>
+
+      var farm = {
+        name: "Abuja 1",
+        type: "Greenhouse",
+        length: "24",
+        width: "8",
+        crops: "tomatoes, cucumbers, peppers.",
+        isActive: true,
+
+        farmInfo: function() {
+            
+            if(this.isActive){
+
+                console.log("Farm Name: " + this.name);
+                console.log("Farm Type: " + this.type);
+                console.log("Size: " + ((this.length*this.width)) + " sq. m.")
+          }
+          
+          else{
+              console.log("Farm is dormant.")
+          }
+          
+        },
+
+      };
+
+
+      farm.farmInfo();
+
+    </script>
+    
+  </body>
+</html>

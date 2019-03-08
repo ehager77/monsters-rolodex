@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>crops_1_no_zone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="28" y="46" width="14" height="13" id="rect-1"></rect>
+        <filter x="-62.2%" y="-63.1%" width="224.4%" height="226.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <rect x="28" y="46" width="14" height="13" id="rect-3"></rect>
+    </defs>
+    <g id="crops_1_no_zone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="360" height="640"></rect>
+        <rect id="Rectangle" fill="#F9FAFB" fill-rule="nonzero" x="0" y="0" width="360" height="640"></rect>
+        <text id="Current-Crops" font-family="Avenir-Medium, Avenir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="29" y="257">Current Crops</tspan>
+        </text>
+        <text id="View-All" font-family="Avenir-Medium, Avenir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="295" y="257">View All</tspan>
+        </text>
+        <g id="Group-3">
+            <g id="crops_activities_banner">
+                <g id="Group-5" stroke-width="1" fill-rule="evenodd">
+                    <g id="Group-2">
+                        <rect id="Rectangle" fill="#344455" x="0" y="0" width="360" height="80"></rect>
+                        <g id="Group">
+                            <g id="Status-bar">
+                                <g id="Status-bar-/-Black" transform="translate(242.000000, 0.000000)">
+                                    <g id="time" opacity="0.9" transform="translate(77.000000, 5.000000)" fill="#82939A" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400">
+                                        <text id="12:30">
+                                            <tspan x="0.474" y="13">12:30</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="battery" transform="translate(55.000000, 4.000000)">
+                                        <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                        <polygon id="Shape" fill="#82939A" points="9 1.875 9 1 6 1 6 1.875 3 1.875 3 15 12 15 12 1.875"></polygon>
+                                    </g>
+                                    <g id="cellular" transform="translate(35.000000, 4.000000)">
+                                        <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                        <polygon id="Shape" fill="#82939A" points="0 15 14 15 14 1"></polygon>
+                                    </g>
+                                    <g id="wifi" transform="translate(14.000000, 4.000000)">
+                                        <polygon id="bounds" points="2 0 18 0 18 16 2 16"></polygon>
+                                        <path d="M0.977372085,4.01593123 C3.48821908,2.12256382 6.61301513,1 10,1 C13.3869849,1 16.5117809,2.12256382 19.0226279,4.01593123 L10,15 L0.977372085,4.01593123 Z" id="Shape" fill="#82939A"></path>
+                                    </g>
+                                </g>
+                                <g id="Title" transform="translate(119.000000, 45.000000)" fill="#F9AA33" font-family="Avenir-Black, Avenir" font-size="12" font-weight="700">
+                                    <text id="Name">
+                                        <tspan x="32.446" y="12">MY FARM</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M336,46 C336,44.8954305 336.88773,44 338,44 C339.104569,44 340,44.8877296 340,46 C340,47.1045695 339.11227,48 338,48 C336.895431,48 336,47.1122704 336,46 Z M336,52 C336,50.8954305 336.88773,50 338,50 C339.104569,50 340,50.8877296 340,52 C340,53.1045695 339.11227,54 338,54 C336.895431,54 336,53.1122704 336,52 Z M336,58 C336,56.8954305 336.88773,56 338,56 C339.104569,56 340,56.8877296 340,58 C340,59.1045695 339.11227,60 338,60 C336.895431,60 336,59.1122704 336,58 Z" id="Combined-Shape" fill="#F9AA33"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="noun_back_1144839-copy">
+                    <image x="28" y="46" width="14" height="13" xlink:href="data:image/png;base64,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"></image>
+                    <use fill="#F9AA33" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#344455" fill-rule="nonzero" x="0" y="79" width="360" height="150"></rect>
+        </g>
+        <g id="fab_yellow" transform="translate(285.000000, 555.000000)">
+            <g id="Group-9">
+                <ellipse id="Oval" fill="#243B6B" opacity="0.5" style="mix-blend-mode: multiply;" filter="url(#filter-2)" cx="27" cy="38.9836066" rx="19.2857143" ry="19.0163934"></ellipse>
+                <ellipse id="Oval-Copy" fill="#F9AA33" cx="27" cy="26.6229508" rx="27" ry="26.6229508"></ellipse>
+                <polygon id="+" fill="#FFFFFF" points="19 26.028459 26.128 26.028459 26.128 19 27.6091429 19 27.6091429 26.028459 34.7371429 26.028459 34.7371429 27.488918 27.6091429 27.488918 27.6091429 34.517377 26.128 34.517377 26.128 27.488918 19 27.488918"></polygon>
+            </g>
+        </g>
+        <g id="noun_back_1144839-copy">
+            <image x="28" y="46" width="14" height="13" xlink:href="data:image/png;base64,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"></image>
+            <use fill="#F9AA33" fill-rule="evenodd" xlink:href="#rect-3"></use>
+        </g>
+        <g id="Text-Copy" transform="translate(29.000000, 87.000000)" fill="#F9FAFB" font-family="Avenir-Light, Avenir" font-weight="300">
+            <text id="Abuja-1" font-size="30" line-spacing="42">
+                <tspan x="1.135" y="30">Abuja 1</tspan>
+            </text>
+            <text id="Abuja,-FCT,-Nigiera" font-size="16">
+                <tspan x="0.792" y="67">Abuja, FCT, Nigiera</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(234.000000, 91.000000)">
+            <g id="Group">
+                <rect id="Rectangle" stroke="#F9AA33" stroke-width="2" fill-rule="nonzero" x="1" y="1" width="94" height="31" rx="7"></rect>
+                <text id="ADD-ZONE" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#F9AA33">
+                    <tspan x="16" y="21">ADD ZONE</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="CROPS" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#F9AA33">
+            <tspan x="72" y="213">CROPS</tspan>
+        </text>
+        <text id="ACTIVITIES" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#F9AA33">
+            <tspan x="234" y="213">ACTIVITIES</tspan>
+        </text>
+        <path d="M2,227 L178.5,227" id="Line-2" stroke="#F9AA33" stroke-width="4" stroke-linecap="square" fill-rule="nonzero"></path>
+    </g>
+</svg>

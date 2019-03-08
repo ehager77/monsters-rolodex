@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="781px" viewBox="0 0 360 781" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>add_activity_nursery copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="46" y="46" width="14" height="13" id="rect-1"></rect>
+        <polygon id="path-2" points="378 0 18 0 18 48 378 48"></polygon>
+        <filter x="-2.2%" y="-16.7%" width="104.4%" height="141.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="140" height="140" rx="7"></rect>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="140" height="140" rx="7"></rect>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="140" height="140" rx="7"></rect>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="0" y="0" width="140" height="140" rx="7"></rect>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="140" height="140" rx="7"></rect>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="add_activity_nursery-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="360" height="781"></rect>
+        <rect id="Rectangle" fill="#F9FAFB" fill-rule="nonzero" x="0" y="0" width="360" height="781"></rect>
+        <g id="add_activity_banner" transform="translate(-18.000000, 0.000000)">
+            <g id="Group-7">
+                <g id="Group-3" transform="translate(18.000000, 0.000000)">
+                    <g id="Group-5">
+                        <g id="Group-2">
+                            <rect id="Rectangle" fill="#344455" x="0" y="0" width="360" height="80"></rect>
+                            <g id="Group">
+                                <g id="Status-bar">
+                                    <g id="Status-bar-/-Black" transform="translate(242.000000, 0.000000)">
+                                        <g id="time" opacity="0.9" transform="translate(77.000000, 5.000000)" fill="#82939A" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400">
+                                            <text id="12:30">
+                                                <tspan x="0.474" y="13">12:30</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="battery" transform="translate(55.000000, 4.000000)">
+                                            <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                            <polygon id="Shape" fill="#82939A" points="9 1.875 9 1 6 1 6 1.875 3 1.875 3 15 12 15 12 1.875"></polygon>
+                                        </g>
+                                        <g id="cellular" transform="translate(35.000000, 4.000000)">
+                                            <polygon id="bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                                            <polygon id="Shape" fill="#82939A" points="0 15 14 15 14 1"></polygon>
+                                        </g>
+                                        <g id="wifi" transform="translate(14.000000, 4.000000)">
+                                            <polygon id="bounds" points="2 0 18 0 18 16 2 16"></polygon>
+                                            <path d="M0.977372085,4.01593123 C3.48821908,2.12256382 6.61301513,1 10,1 C13.3869849,1 16.5117809,2.12256382 19.0226279,4.01593123 L10,15 L0.977372085,4.01593123 Z" id="Shape" fill="#82939A"></path>
+                                        </g>
+                                    </g>
+                                    <g id="Title" transform="translate(104.000000, 45.000000)" fill="#F9AA33" font-family="Avenir-Black, Avenir" font-size="12" font-weight="700">
+                                        <text id="Name">
+                                            <tspan x="33.562" y="12">ADD ACTIVITY</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <path d="M336,46 C336,44.8954305 336.88773,44 338,44 C339.104569,44 340,44.8877296 340,46 C340,47.1045695 339.11227,48 338,48 C336.895431,48 336,47.1122704 336,46 Z M336,52 C336,50.8954305 336.88773,50 338,50 C339.104569,50 340,50.8877296 340,52 C340,53.1045695 339.11227,54 338,54 C336.895431,54 336,53.1122704 336,52 Z M336,58 C336,56.8954305 336.88773,56 338,56 C339.104569,56 340,56.8877296 340,58 C340,59.1045695 339.11227,60 338,60 C336.895431,60 336,59.1122704 336,58 Z" id="Combined-Shape" fill="#F9AA33"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle" fill="#344455" fill-rule="nonzero" x="0" y="79" width="360" height="51"></rect>
+                </g>
+                <g id="noun_back_1144839-copy">
+                    <image x="46" y="46" width="14" height="13" xlink:href="data:image/png;base64,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"></image>
+                    <use fill="#F9AA33" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+                <g id="search" transform="translate(29.000000, 82.000000)">
+                    <rect id="search-bg" stroke="#F9FAFB" x="0.5" y="0.5" width="342" height="47" rx="2"></rect>
+                    <g transform="translate(19.000000, 15.000000)" fill="#F9FAFB" id="Shape" opacity="0.539999962">
+                        <path d="M12.502,6.491 L11.708,6.491 L11.432,6.765 C12.407,7.902 13,9.376 13,10.991 C13,14.581 10.09,17.491 6.5,17.491 C2.91,17.491 0,14.581 0,10.991 C0,7.401 2.91,4.491 6.5,4.491 C8.115,4.491 9.588,5.083 10.725,6.057 L11.001,5.783 L11.001,4.991 L15.999,0 L17.49,1.491 L12.502,6.491 L12.502,6.491 Z M6.5,6.491 C4.014,6.491 2,8.505 2,10.991 C2,13.476 4.014,15.491 6.5,15.491 C8.985,15.491 11,13.476 11,10.991 C11,8.505 8.985,6.491 6.5,6.491 L6.5,6.491 Z" transform="translate(8.745000, 8.745500) scale(1, -1) translate(-8.745000, -8.745500) "></path>
+                    </g>
+                    <g id="mic" transform="translate(303.000000, 12.000000)">
+                        <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M14.99,11 L14.999,5 C14.999,3.342 13.657,2 12,2 C10.344,2 9,3.342 9,5 L9,11 C9,12.656 10.344,14 12,14 C13.657,14 14.99,12.656 14.99,11 Z M17.299,11 C17.299,14 14.762,16.1 12,16.1 C9.239,16.1 6.7,14 6.7,11 L5,11 C5,14.415 7.719,17.233 11,17.718 L11,21 L13,21 L13,17.718 C16.279,17.233 19,14.415 19,11 L17.299,11 L17.299,11 Z" fill="#F9FAFB" opacity="0.539999962"></path>
+                    </g>
+                </g>
+                <g id="app-bar" transform="translate(0.000000, 130.000000)">
+                    <g id="app-bar-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#344455" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="tabs" transform="translate(0.000000, 14.000000)" fill="#F9AA33">
+                        <text id="REPRODUCTIVE" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" line-spacing="16">
+                            <tspan x="272.334" y="12">REPRODUCTIVE</tspan>
+                        </text>
+                        <text id="VEGETATIVE" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" line-spacing="16">
+                            <tspan x="147.546" y="12">VEGETATIVE</tspan>
+                        </text>
+                        <text id="NURSERY" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" line-spacing="16">
+                            <tspan x="32.664" y="12">NURSERY</tspan>
+                        </text>
+                        <rect id="indicator" x="18" y="30" width="90" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="Suggested-Activities" font-family="Avenir-Light, Avenir" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="29" y="236">Suggested Activities</tspan>
+        </text>
+        <text id="View-All" font-family="Avenir-Medium, Avenir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="295" y="205">View All</tspan>
+        </text>
+        <g id="activity_card" transform="translate(29.000000, 258.000000)">
+            <g id="Group-2">
+                <g id="Group-6">
+                    <g id="Rectangle" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(40.833333, 20.169492)" fill="#344455">
+                        <g id="Group">
+                            <ellipse id="Oval-4" cx="29.75" cy="30.2542373" rx="29.75" ry="30.2542373"></ellipse>
+                        </g>
+                    </g>
+                    <image id="noun_plant-watering_482041" x="58.3333333" y="33.220339" width="23.3333333" height="34.4067797" xlink:href="data:image/png;base64,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"></image>
+                </g>
+                <text id="Irrigation:-Nursery" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#000000">
+                    <tspan x="43.322" y="102">Irrigation:</tspan>
+                    <tspan x="30.89" y="118">Nursery Stage</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="pesticide_card" transform="translate(29.000000, 423.000000)">
+            <g id="Group-2">
+                <g id="Group-6">
+                    <g id="Rectangle" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(40.833333, 20.169492)" fill="#344455">
+                        <g id="Group">
+                            <ellipse id="Oval-4" cx="29.75" cy="30.2542373" rx="29.75" ry="30.2542373"></ellipse>
+                        </g>
+                    </g>
+                    <image id="noun_plant-watering_482041" x="61" y="35" width="17.7521186" height="30.8162076" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABGCAYAAAC+ANZHAAAABGdBTUEAALGOfPtRkwAABUlJREFUaAXtmO952kgQxs958j10cOrAdGClgqODcBWEDsAVxFeBdRWYq8ByBeYqiFzBkQp8v3eZkRdZEhISkA+Z53mZ2dn58+5qJQFXv3WQ19fXCWHXHUKHhLxcXV0VnQtAKgHfwHdwDlnVkftYdcJEu/UNzCtzL4yLim+MYUKR31WI3jeoKUhMp+g3IWAKvgOXDGP2FjG+Rf2VN6vTZUcmRe4/C9poXE6e0KBPTLBgnMe+0BrHBDwDicjpMp9F6OUEV3FDEZF8MOcCrR3TOUu5m7bmv7j6AMkEFktjMv+ZyImTdnBm5J4gl5t9CRXu5GpjEfxizqw6eebxPBy63b3wUPY2p1RSOs9o0NdvkojKm3kl0/jkZ+QVt0oYCLfgDuhmTUECpvGbRM6Lit2gOSSEICL42ew2pZXpy8LfIANN8mgTbTW1Q3qVShQ3B34fYO7Lxy53Lqdga2lFW7yfli4xqqc4clKrXav8QV07+TM4WwlqdUA30Y2RXWrcJL4gm1/5eIhuJTik8Fi5XQk+cV46CcRuD5ArfJ6dnrjdpLsSbMrv7WeVBUkvluh3c2Od+DnYGHSCiQU19TqbA39CYL6Xs++gKLCLa9Sf4AdovcyX2kGRzDiDIjoDCcjBO7kYQTGB5BaVyW6Si1ziJjJ1/lMQ1K5I0vA58OMUBDfG6dNAbiH9lAT1MzYZSnJ0gnbw/zFi86EEW/PZgfBlAZ23BlYmozzMYX8AjL6D4sou5qgn2cg9JCc7s//nSQgajRn6XzAF+tciRY8rKgok+TGVyUuA/kpxucf445hatTkUG0RQRamh/30yUBX9UfUIHsBX0P8YkDSYoK+cWgm4AwWoExH+6vGdNAmjEaw2pLaek6q/ADlwua/GNo7JOBnBalN6zZ0helGdrx2fk6AIRCR1ucOZPOVjpnbRbU59R2Rez0+Rm4Pw95v0KMKqE6A7MokLMtZRWca+FjuzuVlLzG7KCqO6PQejeF2iqaqgMxDkYMNdvBYjeVb82N+oC2rq7XENnmmCKuWv0upmhAWOegY5QwW9s5r+8q9q/AddoxK0bgvTt+jP4AUk4PCZIqiXcIn8PORxIv4VeHfo8c1BEI9noFiJLvnE/dKMU7AEJXnzofbPR5xX2lFwXjox8BcqgKTux9abQTeHZA0CGfQMbIHkweOlGd8FL4twP2ORDuK+Rk2UB+dxEP5sV+KtYeRbx7GymZsCJ5mYb4LPF5TKJ8HnPffusN1s5TMKzuMp/Alwuccoi2JP41i38WdAokstwtKSau2yluc2apI9eK+IEpibq3pFMs3VCXHxLnqadjUcBc9h7D2P38FKMTWRbNzfpImZhcjdxxq1R055+PYIDnrM2G8P57Nwo0kTv2bOf/FtGG+bYt3fmyArXO02YPdJoU/gpULW69dpkZQsK3V23spnb4KVfB8WbnTQfWL7f5thp1YgCGT0pjhWnqyM16qtM3QHJ1b1hsvldm2jyDkzW0fjoBxNEEJqdB91WER2rWmL+GKTU8Z6FnZd2PuaJPstn8ez+BPgb4Ec2yWN46o2QR67wd5a0mMch897Hv8cpEhmxXMVx76zsdQS7O0KYzX1N4eITQ1OMlUdicWixvmyoMschHoxSdV/NPhOyxfIRTm+0FXk02KCyHfsN+pMydx+a2kJ9oKqOeYC3IAUuPzAyICeAFt3mq9A56C/0NBXk/fJJm9iucqf9sz1nuEMHruDrT1tl3otqqng0Y+ZpoJj+38RHLqjv3Zw6A52vYuveVzsvZKGNm7Jn8RzXQkqKY0Tz2UfIriByJDvfIPX8T+haQQZ3CQ1hQAAAABJRU5ErkJggg=="></image>
+                </g>
+                <text id="Pesticide-Applicatio" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#000000">
+                    <tspan x="45.65" y="102">Pesticide</tspan>
+                    <tspan x="38.864" y="118">Application</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="fungicide_card" transform="translate(193.000000, 423.000000)">
+            <g id="Group-2">
+                <g id="Group-6">
+                    <g id="Rectangle" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(40.833333, 20.169492)" fill="#344455">
+                        <g id="Group">
+                            <ellipse id="Oval-4" cx="29.75" cy="30.2542373" rx="29.75" ry="30.2542373"></ellipse>
+                        </g>
+                    </g>
+                    <image id="noun_plant-watering_482041" x="56" y="36" width="28.5042373" height="28.5042373" xlink:href="data:image/png;base64,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"></image>
+                </g>
+                <text id="Fungicide-Applicatio" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#000000">
+                    <tspan x="43.652" y="102">Fungicide</tspan>
+                    <tspan x="38.864" y="118">Application</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(193.000000, 258.000000)">
+            <g id="Group-6">
+                <g id="Rectangle" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-10"></use>
+                </g>
+                <g id="Group-4" transform="translate(40.833333, 20.169492)" fill="#344455">
+                    <g id="Group">
+                        <ellipse id="Oval-4" cx="29.75" cy="30.2542373" rx="29.75" ry="30.2542373"></ellipse>
+                    </g>
+                </g>
+                <image id="noun_plant-watering_482041" x="58" y="39" width="23.3538136" height="23.8162076" xlink:href="data:image/png;base64,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"></image>
+            </g>
+            <text id="Calculate-Germinatio" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#000000">
+                <tspan x="45.212" y="102">Calculate</tspan>
+                <tspan x="21.44" y="118">Germination Rate</tspan>
+            </text>
+        </g>
+        <g id="custom_activity_card" transform="translate(29.000000, 588.000000)">
+            <g id="Group-8">
+                <g id="Rectangle" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-12"></use>
+                </g>
+                <g id="Group-4" transform="translate(40.833333, 20.169492)" fill="#344455">
+                    <g id="Group">
+                        <ellipse id="Oval-4" cx="29.75" cy="30.2542373" rx="29.75" ry="30.2542373"></ellipse>
+                    </g>
+                </g>
+                <image id="noun_plant-watering_482041" x="56" y="36" width="28.8109441" height="28.8109441" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAABGdBTUEAALGOfPtRkwAAA2tJREFUeAHtmu1x2zAMhusNPIJH6AjeoCNUI3SDZIRsQHWCdAN7g3oDe4NmA/dBTnQQHKGPXq4RTeAOIQmCMN9HsJIf2Xy5c7ter3skfsd3uNgR/7nZbC6M7RpgEu5Z1ywZiCSPioq3B2gmmMyoHUAOmB/yFWJvh58yFTXePyDEJiU4T98JJ7jF2wKE4IRbeweG5nk1ktoBhNhkqbDuBhbFgf37B4TIhFsbBZNpccgDtM851Y6IS5YK68MSQeSXAC2qseTz/ksuohLuWVpyCYoIoIsutuT8qnIRkbQQZ74UUG/q7Fcles5lEJCMCFl2uBUn8VmAyJPOOeM3m3OXVeVw83S7/duky5cktBgQZwTM77dyr7NTrlnFyJWTESDLG5gsgthsQOSWwEjdfa63+pHLJrmxsc67OHmTgMjxwLh1vc/7tDgiEm5tUgAHXEDs1Q1mEPBsqbCeBJOfJLlFQMTtO0Y+ZnbdXP9TRi76YU+WWiVAAkNbe2Dyk4XCGKB2wShAZ90qwzzAACIFmNwmagwwCoaeBhhNQ80DjIKhpwFG01DzAKNg6KkD5knnrHbO5T/sL18r0gHT27xVrgOM81gCTIBxCDjh6JgA4xBwwtExAcYh4ISjYwKMQ8AJR8cEGIeAE46OCTAOASccHRNgHAJOODomwDgEnHB0TIBxCDjh6BgHjISB84hb60aOzNqiYLJFWfezDq8liQv/KYiY9R+angbqpULN6sB0BRE59E+AOJxyATXWBUaeOpc/KAGl6SJAFEiFIlWC2RkhF9a9iclyFiDJk2Rj9YEZuubJCHkc4osBUSeZWrKsE8wAwb6IdxIXE2EFscUOIi8VcvvXQjX+QExnBB2tDvYnAZGTTB1Z9rZWVWsEHESFsq4kgH0XEHtJnc/TvlSnmhgqdlnJML6MXZ6cEqCzqSHLusEIBETYF/Hk/7aIcFE/YvWDGeC4L2LZtwYQ6bSHFsB0RuTRwshr8r7hzybfLvucX/2IsoNR12lR7OUuOZs8u3whMPl11LVXPUeMCNd2exETnNMlcvaES/dtVy126eUQZF/Ev4g94Gd8zKRLevzr0s+sJh9x9kU8BkT27rNL7BNDqHwV5tj9d0kBzmGCTBtdYsHIGjDSEdba6xIHjv5atdslJThD92xpnfv9jeMJn4j/BWoDS8QoC+VYAAAAAElFTkSuQmCC"></image>
+                <text id="Custom-Activity" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#000000">
+                    <tspan x="49.568" y="102">Custom</tspan>
+                    <tspan x="49.754" y="118">Activity</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

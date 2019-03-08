@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Animals Loop</h2>
+
+<p id="demo"></p>
+
+<script>
+
+var animals = ["chickens", "pigs", "cows", "horses", "ostriches"];;
+var i;
+
+console.log(animals[0][0])
+
+for (var i=0; i<animals.length; i++){
+    console.log(animals[i]);
+
+    if (animals[i][0] === "c" || animals[i][0] === "o"){
+        alert(animals[i] + " starts with letter c or o")
+    }
+}
+
+</script>
+
+</body>
